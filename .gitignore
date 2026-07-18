@@ -1,0 +1,9 @@
+# Generated hourly PSXI snapshot cache.
+market-cache.json
+
+# Editor and operating-system files.
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
